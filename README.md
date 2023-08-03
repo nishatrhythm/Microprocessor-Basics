@@ -38,3 +38,9 @@
  <li>8-bit division for signed number</li>
  <li>8-bit division for unsigned number</li>
 </ol>
+
+
+<h2>Lab problem</h2>
+<ul>
+ <li>Write an assembly language program that reads two numbers from the keyboard and gives their sum as output. Also find the smaller number of the two.</li>
+</ul>
