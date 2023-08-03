@@ -33,7 +33,7 @@
  <li>32-bit Addition</li>
  <li>16-bit multiplication of signed numbers</li>
  <li>16-bit multiplication of unsigned numbers</li>
- <li>16-bit division of unsigned numbers</li>
+ <li>16-bit division of signed numbers</li>
  <li>16-bit division of unsigned numbers</li>
  <li>8-bit division for signed number</li>
  <li>8-bit division for unsigned number</li>
